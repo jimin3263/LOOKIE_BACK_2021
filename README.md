@@ -25,17 +25,27 @@ LOOKIE 2021 BACKEND STUDY
 - [Spring Framework-12](https://velog.io/@dbghwns11/Spring-Framework-12)
 
 ### 4주차 (5/9 ~ 5/15)
-- 파일 업로드, 다운로드
+- [Spring Framework-13](https://velog.io/@dbghwns11/Spring-Framework-13) 
+- [Spring Framework-14](https://velog.io/@dbghwns11/Spring-Framework-14) 
+- [Spring Framework-15](https://velog.io/@dbghwns11/Spring-Framework-15) 
 
 ### 5주차 (5/16 ~ 5/22)
-- Spring Security
+- [Spring Framework-16](https://velog.io/@dbghwns11/Spring-Framework-16) 
+- [Spring Framework-17](https://velog.io/@dbghwns11/Spring-Framework-17) 
+- [Spring Framework-18](https://velog.io/@dbghwns11/Spring-Framework-18) 
+- [Spring Framework-19](https://velog.io/@dbghwns11/Spring-Framework-19) 
+- [Spring Framework-20](https://velog.io/@dbghwns11/Spring-Framework-20) 
 
 ### 6주차 (5/23 ~ 5/29)
-- Spring Boot
-- Spring JPA
-
+- [Spring Boot-0](https://velog.io/@dbghwns11/Spring-Boot-0) 
+- [Spring Boot-1](https://velog.io/@dbghwns11/Spring-Boot-1) 
+- [Spring Boot-2](https://velog.io/@dbghwns11/Spring-Boot-2) 
+- [Spring Boot-3](https://velog.io/@dbghwns11/Spring-Boot-3)
+ 
 ### 7주차 (5/30 ~ 6/5)
-- Spring Boot로 기존 프로젝트 바꾸기
+- [Spring Boot-4](https://velog.io/@dbghwns11/Spring-Boot-4) 
+- [Spring Boot-5](https://velog.io/@dbghwns11/Spring-Boot-5) 
+- [Spring Boot-6](https://velog.io/@dbghwns11/Spring-Boot-6) 
 
 ### 8주차 (6/6 ~)
 - 보충
